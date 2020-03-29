@@ -18,7 +18,7 @@ pkg_version="0.1.0"
 
 # Optional.
 # The name and email address of the package maintainer.
-pkg_maintainer="The Habitat Maintainers <humans@habitat.sh>"
+pkg_maintainer="kagarmoe <kagarmoe@gmail.com>"
 
 # Optional.
 # An array of valid software licenses that relate to this package.
@@ -27,7 +27,7 @@ pkg_license=("Apache-2.0")
 
 # Optional.
 # The scaffolding base for this plan.
-# pkg_scaffolding="some/scaffolding"
+pkg_scaffolding="core/scaffolding-ruby"
 
 # Optional.
 # A URL that specifies where to download the source from. Any valid wget url
